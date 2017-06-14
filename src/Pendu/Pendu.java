@@ -8,6 +8,7 @@ import java.awt.TextField;
 import Potence.Potence;
 import Utile.Utile;
 // petite modification du fichier pendu.java
+//test1
 public class Pendu extends Panel { // composant Pendu
 	private static final long serialVersionUID = 1L;
 	// initialisation directe du tableau tabMots
